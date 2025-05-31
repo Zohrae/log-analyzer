@@ -1,0 +1,5 @@
+[INFO] Application started
+[WARNING] Deprecated function used
+[ERROR] Null pointer exception
+[INFO] User login
+[ERROR] Database connection failed
