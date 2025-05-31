@@ -19,7 +19,7 @@ def analyze_logs(input_file='log.txt', output_file='rapport.txt'):
     print(Fore.YELLOW + f"WARNING: {counts['WARNING']}" + Style.RESET_ALL)
     print(Fore.RED + f"ERROR: {counts['ERROR']}" + Style.RESET_ALL)
 
-    print(Fore.CYAN + "✅ Rapport généré dans rapport.txt" + Style.RESET_ALL)
+    print(Fore.CYAN + "Rapport généré dans rapport.txt" + Style.RESET_ALL)
 
 if __name__ == "__main__":
     analyze_logs()
