@@ -21,4 +21,4 @@ jobs:
 
     - name: Lancer le script
       run: |
-        python main.py
+        python log_analyzer.py
